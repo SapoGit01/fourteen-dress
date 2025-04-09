@@ -1,0 +1,37 @@
+[01-Apr-2025 10:50:21 UTC] Invalid product slug provided "wpforms-lite", does not match bsf_product_slugs
+[01-Apr-2025 10:50:50 UTC] PHP Warning:  Undefined array key "uuid" in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\astra-sites\inc\lib\ai-builder\inc\ajax\plugin.php on line 287
+[01-Apr-2025 10:54:27 UTC] PHP Warning:  Undefined global variable $post in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\woocommerce\includes\shortcodes\class-wc-shortcode-products.php on line 640
+[01-Apr-2025 11:06:33 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[02-Apr-2025 16:17:55 UTC] PHP Warning:  Undefined array key 1 in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[02-Apr-2025 16:17:55 UTC] PHP Warning:  Undefined array key 1 in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[02-Apr-2025 16:17:55 UTC] PHP Warning:  Undefined array key 1 in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[02-Apr-2025 16:17:55 UTC] PHP Warning:  Undefined array key 1 in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[02-Apr-2025 16:17:55 UTC] PHP Warning:  Undefined array key 1 in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[02-Apr-2025 16:17:55 UTC] PHP Warning:  Undefined array key 1 in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[02-Apr-2025 16:17:55 UTC] PHP Warning:  Undefined array key 1 in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[02-Apr-2025 16:17:55 UTC] PHP Warning:  Undefined array key 1 in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[02-Apr-2025 16:17:55 UTC] PHP Warning:  Undefined array key 1 in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[02-Apr-2025 16:17:55 UTC] PHP Warning:  Undefined array key 1 in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[02-Apr-2025 16:17:55 UTC] PHP Warning:  Undefined array key 1 in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[02-Apr-2025 16:17:55 UTC] PHP Warning:  Undefined array key 1 in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[02-Apr-2025 16:17:55 UTC] PHP Warning:  Undefined array key 1 in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[02-Apr-2025 16:17:55 UTC] PHP Warning:  Undefined array key 1 in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[02-Apr-2025 16:17:55 UTC] PHP Warning:  Undefined array key 1 in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[02-Apr-2025 16:17:55 UTC] PHP Warning:  Undefined array key 1 in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[02-Apr-2025 16:17:55 UTC] PHP Warning:  Undefined array key 1 in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[02-Apr-2025 16:17:55 UTC] PHP Warning:  Undefined array key 1 in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[02-Apr-2025 16:17:55 UTC] PHP Warning:  Undefined array key 1 in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[02-Apr-2025 16:17:55 UTC] PHP Warning:  Undefined array key 1 in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\astra-sites\inc\lib\zipwp-images\classes\zipwp-images-api.php on line 471
+[04-Apr-2025 07:35:48 UTC] PHP Warning:  include(C:\Users\sapor\Local Sites\fourteen-dress\app\public/wp-content/languages/plugins/product-blocks-it_IT.l10n.php): Failed to open stream: No such file or directory in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-includes\l10n.php on line 1607
+[04-Apr-2025 07:35:48 UTC] PHP Warning:  include(): Failed opening 'C:\Users\sapor\Local Sites\fourteen-dress\app\public/wp-content/languages/plugins/product-blocks-it_IT.l10n.php' for inclusion (include_path='.:/usr/share/php:/www/wp-content/pear') in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-includes\l10n.php on line 1607
+[04-Apr-2025 08:21:56 UTC] PHP Fatal error:  Uncaught Error: Call to a member function get_gallery_image_ids() on bool in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\elementor\modules\ai\module.php:348
+Stack trace:
+#0 C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-includes\class-wp-hook.php(324): Elementor\Modules\Ai\Module->get_product_images_ajax('')
+#1 C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#2 C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#3 C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-admin\admin-ajax.php(192): do_action('wp_ajax_element...')
+#4 {main}
+  thrown in C:\Users\sapor\Local Sites\fourteen-dress\app\public\wp-content\plugins\elementor\modules\ai\module.php on line 348
+[04-Apr-2025 10:31:40 UTC] Errore nell'evento Cron di riprogrammazione per l'hook: action_scheduler_run_queue, codice di errore: could_not_set, messaggio di errore: L'elenco degli eventi del cron non può essere salvato., dati: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[04-Apr-2025 10:31:40 UTC] Errore nell'evento Cron non programmato per l'hook: woocommerce_cancel_unpaid_orders, codice di errore: could_not_set, messaggio di errore: L'elenco degli eventi del cron non può essere salvato., dati: {"schedule":false,"args":[]}
+[04-Apr-2025 10:31:40 UTC] Errore nell'evento Cron di riprogrammazione per l'hook: wp_privacy_delete_old_export_files, codice di errore: could_not_set, messaggio di errore: L'elenco degli eventi del cron non può essere salvato., dati: {"schedule":"hourly","args":[],"interval":3600}
