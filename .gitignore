@@ -1,0 +1,24 @@
+# 🖥️ File di sistema e di OS
+.DS_Store
+Thumbs.db
+
+# 🗃️ Log e file temporanei
+logs/
+*.log
+*.tmp
+*.bak
+*.swp
+
+# 🛠️ Configurazioni locali o personali
+.local/
+.vscode/
+.idea/
+
+# 📦 Dipendenze (ricostruibili con npm/composer)
+node_modules/
+vendor/
+
+# 🗜️ File compressi o backup extra
+*.zip
+
+# ⚠️ (Non escludo il database: app/sql/*.sql è incluso nel backup)
